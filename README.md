@@ -72,6 +72,13 @@ Project/
 - [TensorFlow](https://www.tensorflow.org/)
 - [scikit-learn](https://scikit-learn.org/)
 
+## Dataset
+Dataset yang digunakan dapat diakses pada website yahoo finance.
+- Bitcoin (BTC-USD) -> [Akses Disini](https://finance.yahoo.com/quote/BTC-USD/)
+- Ethereum (ETH-USD) -> [Akses Disini](https://finance.yahoo.com/quote/ETH-USD/)
+- Ripple (XRP-USD) -> [Akses Disini](https://finance.yahoo.com/quote/XRP-USD/)
+- Solana (SOL-USD) -> [Akses Disini](https://finance.yahoo.com/quote/SOL-USD/)
+
 ---
 
 Selamat mencoba dan semoga bermanfaat!
