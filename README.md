@@ -40,7 +40,7 @@ Project/
 2. **Jalankan Aplikasi**
 
    ```bash
-   python Project/app.py
+   python app.py
    ```
 
 3. **Akses Aplikasi**
