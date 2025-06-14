@@ -1,3 +1,7 @@
+# Nama Kelompok
+- Ikhwan Ash-Shiddiqi
+- Kia Kurniawan
+
 # Cryptocurrency Price Prediction System
 
 Sistem ini adalah aplikasi web untuk memprediksi harga cryptocurrency. Aplikasi ini menggunakan Flask sebagai back-end untuk memproses data, memuat model prediksi, dan menghasilkan output prediksi. Antarmuka pengguna dibangun dengan Bootstrap dan JavaScript untuk memberikan pengalaman single-page yang dinamis dan interaktif.
